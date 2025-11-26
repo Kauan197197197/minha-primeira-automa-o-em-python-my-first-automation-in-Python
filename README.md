@@ -60,5 +60,5 @@ No other browser automation tools are used.
 
 ---
 
-## Short Description (PT)
+## Short Description (EN)
 Python automation using PyAutoGUI, created to automatically open YouTube and search for Python lessons.
